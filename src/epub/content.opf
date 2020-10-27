@@ -27,8 +27,8 @@
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.1 Level AA.</meta>
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
-		<dc:title id="title">Some Do Not...</dc:title>
-		<meta property="file-as" refines="#title">Some Do Not...</meta>
+		<dc:title id="title">Some Do Not …</dc:title>
+		<meta property="file-as" refines="#title">Some Do Not …</meta>
 		<dc:subject id="subject-1">World War, 1914-1918 -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Adultery -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Great Britain -- History -- George V, 1910-1936 -- Fiction</dc:subject>
