@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/ford-madox-ford/some-do-not</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2020-10-27T17:54:38Z</dc:date>
+		<meta property="dcterms:modified">2020-10-27T17:54:38Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -42,16 +42,18 @@
 		<meta id="collection-1" property="belongs-to-collection">Parade’s End</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">As the eve of World War I looms, a stiff English statistician and a suffragette fall in love.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;Some Do Not …&lt;/i&gt; opens at the cusp of World War I. Christopher Tietjens, a government statistician, and his friend Vincent Macmaster, an aspiring literary critic, are visiting the English countryside. Tietjens is preoccupied with his disastrous marriage, and during a round of golf he encounters Valentine Wannop, a suffragette. As their love story develops, the novel explores the horrors of the war without the narrative ever entering the battlefield.&lt;/p&gt;
+			&lt;p&gt;The characters are complex and nuanced. Tietjens is an old-fashioned man even by the standards of his day; he’s concerned with honor and doing the right thing, but he lives in a society that only pays those values lip service. Yet he himself isn’t free of a thread of hypocrisy: he won’t leave his deeply unhappy marriage because that would be the wrong way to act, but the reader is left wondering if he tolerates his situation simply because he married up in class. He wants to do to the noble and right thing, but does that mean going to war?&lt;/p&gt;
+			&lt;p&gt;The men and women around him each have their individual motivations, and they are often conniving and unlikable in their aspirations even as the propaganda of England at war paints the country as a moral and heroic one. The delicate interplay of each character’s subtleties paints a rich portrait of 1920s English society, as the romantic ideals of right and wrong clash with notions of ambition and practicality.&lt;/p&gt;
+			&lt;p&gt;The prose is unapologetically modernist: unannounced time shifts combine with a stream-of-consciousness style that can often be dense. Yet Ford’s portrayal of shell shock, the politics of women in the 1920s, and the moral greyness of wartime is groundbreaking. The book, and its complete tetralogy—called &lt;a href="https://standardebooks.org/collections/parades-end"&gt;Parade’s End&lt;/a&gt;—has garnered praise from critics and authors alike, with Anthony Burgess calling it “the finest novel about the First World War” and William Carlos Williams stating that the novels “constitute the English prose masterpiece of their time.”&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://gutenberg.ca/ebooks/fordfm-somedonot/fordfm-somedonot-00-h-dir/fordfm-somedonot-00-h.html</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/006152929</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">117359</meta>
+		<meta property="se:reading-ease.flesch">74.69</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Some_Do_Not_...</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/ford-madox-ford_some-do-not</meta>
 		<dc:creator id="author">Ford Madox Ford</dc:creator>
