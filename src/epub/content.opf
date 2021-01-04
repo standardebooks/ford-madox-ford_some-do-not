@@ -42,6 +42,10 @@
 		<meta id="collection-1" property="belongs-to-collection">Parade’s End</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
+		<!--The Parade's End tetralogy, not any individual novel, placed #57-->
+		<meta id="collection-2" property="belongs-to-collection">Modern Library’s 100 Best Novels</meta>
+		<meta property="collection-type" refines="#collection-2">set</meta>
+		<meta property="group-position" refines="#collection-2">57</meta>
 		<dc:description id="description">As the eve of World War I looms, a stiff English statistician and a suffragette fall in love.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Some Do Not …&lt;/i&gt; opens at the cusp of World War I. Christopher Tietjens, a government statistician, and his friend Vincent Macmaster, an aspiring literary critic, are visiting the English countryside. Tietjens, preoccupied with his disastrous marriage, meets Valentine Wannop, a suffragette, during a round of golf. As their love story develops, the novel explores the horrors of the war without the narrative ever entering the battlefield.&lt;/p&gt;
