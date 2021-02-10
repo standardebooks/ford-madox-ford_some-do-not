@@ -47,7 +47,7 @@
 		<meta property="collection-type" refines="#collection-2">set</meta>
 		<meta property="group-position" refines="#collection-2">57</meta>
 		<!--The Parade's End tetralogy, not any individual novel, also placed #57-->
-		<meta id="collection-3" property="belongs-to-collection">The BBC’s 100 greatest British novels (2015)</meta>
+		<meta id="collection-3" property="belongs-to-collection">The BBC’s 100 Greatest British Novels (2015)</meta>
 		<meta property="collection-type" refines="#collection-3">set</meta>
 		<meta property="group-position" refines="#collection-3">57</meta>
 		<dc:description id="description">As the eve of World War I looms, a stiff English statistician and a suffragette fall in love.</dc:description>
