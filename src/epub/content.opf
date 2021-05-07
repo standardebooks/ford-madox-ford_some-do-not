@@ -51,7 +51,7 @@
 		<meta id="collection-3" property="belongs-to-collection">The BBC’s 100 Greatest British Novels (2015)</meta>
 		<meta property="collection-type" refines="#collection-3">set</meta>
 		<meta property="group-position" refines="#collection-3">57</meta>
-		<dc:description id="description">As the eve of World War I looms, a stiff English statistician and a suffragette fall in love.</dc:description>
+		<dc:description id="description">As World War I looms, a stiff English statistician and a suffragette fall in love.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Some Do Not …&lt;/i&gt; opens at the cusp of World War I. Christopher Tietjens, a government statistician, and his friend Vincent Macmaster, an aspiring literary critic, are visiting the English countryside. Tietjens, preoccupied with his disastrous marriage, meets Valentine Wannop, a suffragette, during a round of golf. As their love story develops, the novel explores the horrors of the war without the narrative ever entering the battlefield.&lt;/p&gt;
 			&lt;p&gt;The characters are complex and nuanced. Tietjens is an old-fashioned man even by the standards of his day; he’s concerned with honor and doing the right thing, but he lives in a society that only pays those values lip service. Yet he himself isn’t free of a thread of hypocrisy: he won’t leave his deeply unhappy marriage because that would be the wrong way to act, but the reader is left wondering if he tolerates his situation simply because he married up in class. He wants to do to the noble and right thing, but does that mean going to war?&lt;/p&gt;
