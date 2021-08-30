@@ -61,7 +61,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://gutenberg.ca/ebooks/fordfm-somedonot/fordfm-somedonot-00-h-dir/fordfm-somedonot-00-h.html</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/006152929</dc:source>
-		<meta property="se:word-count">117359</meta>
+		<meta property="se:word-count">117361</meta>
 		<meta property="se:reading-ease.flesch">74.69</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Some_Do_Not_...</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/ford-madox-ford_some-do-not</meta>
